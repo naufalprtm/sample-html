@@ -26,6 +26,6 @@ Jika gambar berada dalam folder bernama "img" yang terletak satu tingkat di atas
 
 
 
------------------------------------------------------------------------------------------------------
-    <!-- Created by https://github.com/naufalprtm -->
+
+*<!-- Created by https://github.com/naufalprtm*
 -----------------------------------------------------------------------------------------------------
